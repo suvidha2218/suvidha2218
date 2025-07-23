@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Suvidha Mankar
 
-<!--
-**suvidha2218/suvidha2218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Data Analyst from India.
 
-Here are some ideas to get you started:
+I’m currently working on [eCommerce Dataset(Power BI)](https://github.com/suvidha2218/eCommerce_Dataset_Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning **Numpy,Pandas,Matplotlib,Seaborn**
+
+I’m looking to collaborate on [Blinkit(Excel)](https://github.com/suvidha2218/Blinkit_Dataset)
+
+I’m looking for help with [Movie Data(SQL)](https://github.com/suvidha2218/Movie_Data)
+
+How to reach me **suvidhamankar3@gmail.com**
+
+Know about my experiences [https://app.luminpdf.com/viewer/688081d24895fc3b3d9bcfe9](https://app.luminpdf.com/viewer/688081d24895fc3b3d9bcfe9)
+
+Contact with me:
+www.linkedin.com/in/suvidha-mankar 
+
+
+
